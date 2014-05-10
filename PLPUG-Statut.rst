@@ -14,19 +14,19 @@
 
 Art. 1.
 
-Stowarzyszenie nosi nazwę Stowarzyszenie Polska Grupa Użytkowników Pythona, w języku angielskim Polish Python User Group, w dalszych postanowieniach zwane Stowarzyszeniem.
+Stowarzyszenie nosi nazwę "Stowarzyszenie Polska Grupa Użytkowników Pythona". W stosunkach międzynarodowych oraz w języku angielskim może posługiwać się równoważną nazwą: "Polish Python Users Group". Stowarzyszenie Polska Grupa Użytkowników Pythona w dalszej części niniejszego Statutu zwane będzie również: "Stowarzyszeniem".
 
 Art. 2.
 
-Stowarzyszenie prowadzi różne formy działalności na rzecz upowszechniania Pythona (języka programowania, rozwijanego przez Fundację Python Software Foundation) oraz budowy i integracji jego społeczności.
+Stowarzyszenie prowadzi działalność na rzecz popularyzacji, wspierania rozwoju oraz upowszechniania języka programowania, rozwijanego przez Fundację Python Software Foundation pod nazwą „Python” (dalej: „Python”) jak również budowy i integracji jego polskiej oraz międzynarodowej społeczności, nie wykluczając możliwości prowadzenia działalności edukacyjnej oraz naukowej dla realizacji ww. celów statutowych. Stowarzyszenie może posługiwać się indywidualnym znakiem graficznym w szczególności w postaci logotypu przyjętego przez Zarząd po konsultacji z członkami Stowarzyszenia.
 
 Art. 3.
 
-Stowarzyszenie jest zawiązane na czas nieograniczony. Posiada osobowość prawną. Działa na podstawie przepisów ustawy z dnia 7 kwietnia 1989 r. Prawo o Stowarzyszeniach (Dz. U. z 2001 r, Nr 79, poz. 855 z późn. zm.) oraz niniejszego Statutu.
+Stowarzyszenie jest zawiązane na czas nieograniczony. Posiada osobowość prawną. Działa na podstawie przepisów powszechnie obowiązującego prawa, w tym w szczególności ustawy z dnia 7 kwietnia 1989 r. Prawo o Stowarzyszeniach (Dz. U. z 2001 r, Nr 79, poz. 855 z późn. zm.) oraz niniejszego Statutu.
 
 Art. 4.
 
-Stowarzyszenie działa na terenie Rzeczypospolitej Polskiej i poza jej granicami, zgodnie z przepisami prawa miejscowego.
+Stowarzyszenie działa na terytorium Rzeczypospolitej Polskiej oraz, dla realizacji celów statutowych, może podejmować działalność również poza jej granicami, zgodnie z przepisami prawa obowiązującego w miejscu prowadzenia działalności.
 
 Art. 5.
 
@@ -38,7 +38,7 @@ Stowarzyszenie może być członkiem innych krajowych i międzynarodowych organi
 
 Art. 7.
 
-Członkami Stowarzyszenia mogą być cudzoziemcy, włącznie z osobami nie mającymi miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej.
+Członkami Stowarzyszenia mogą być obywatele polscy oraz cudzoziemcy, także nie mający miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej zainteresowani językiem programowania Python.
 
 **Rozdział 2. Cele i formy działania**
 
