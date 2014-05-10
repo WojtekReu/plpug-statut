@@ -46,20 +46,20 @@ Art. 8.
 
 Celami Stowarzyszenia są:
 
-#. Budowa i integracja polskiej społeczności Pythona,
-#. Popularyzacja Pythona, jak również związanego z nim oprogramowania,
+#. Budowa i integracja polskiej społeczności wykorzystującej język programowania Python,
+#. Rozwój popularyzacja i promocja Pythona, jak również związanego z nim oprogramowania na polskiej oraz międzynarodowej arenie informatycznej,
 #. Reprezentowanie członków Stowarzyszenia, ich opinii i potrzeb,
-#. Wspieranie lokalnych grup użytkowników Pythona oraz innych społeczności wykorzystujących ten język programowania,
-#. Wspieranie projektów związanych z Pythonem,
+#. Współpraca i wspieranie lokalnych oraz międzynarodowych grup użytkowników Pythona, a także innych społeczności wykorzystujących ten język programowania,
+#. Wspieranie projektów informatycznych związanych z Pythonem,
 #. Wspieranie rozwoju rynku pracy dla programistów Pythona,
-#. Działalność na rzecz szkolnictwa i edukacji.
+#. Działalność na rzecz oświaty, szkolnictwa i edukacji.
 
 Art. 9.
 
 Sposoby realizacji celów:
 
 #. Organizowanie konferencji PyCon PL, promującej Pythona na terenie Rzeczypospolitej Polskiej,
-#. Organizowanie innych konferencji, warsztatów, konkursów oraz akcji służących realizacji celów statutowych Stowarzyszenia,
+#. Organizowanie innych konferencji, warsztatów, konkursów, imprez okolicznościowych oraz akcji służących realizacji celów statutowych Stowarzyszenia,
 #. Wspieranie lokalnych grup użytkowników, kół naukowych i innych tego typu środowisk wykorzystujących Pythona,
 #. Współpraca z Fundacją Python Software Foundation, zarejestrowaną w Stanach Zjednoczonych, w zakresie realizacji celów statutowych Stowarzyszenia,
 #. Tworzenie wolnego i otwartego oprogramowania,
@@ -79,7 +79,7 @@ Sposoby realizacji celów:
     * serwisem ogłoszeniowym z ofertami pracy dla programistów Pythona.
 
 #. Tworzenie projektów i programów edukacyjnych związanych z Pythonem dla wykorzystania w szkolnictwie,
-#. Organizowanie szkoleń i wykładów z programowania w Pythonie.
+#. Organizowanie szkoleń i wykładów z programowania w Pythonie, przygotowywanie materiałów edukacyjnych, broszur oraz opracowań dydaktycznych, a także programów promocyjnych służących realizacji celów statutowych.
 
 **Rozdział 3. Członkowie, ich prawa i obowiązki**
 
@@ -93,7 +93,7 @@ Członkowie Stowarzyszenia dzielą się na:
 
 Art. 11.
 
-Przyjęcie na członka zwyczajnego Stowarzyszenia następuje bezpośrednio w drodze uchwały zatwierdzonej przez Zarząd.
+Przyjęcie na członka zwyczajnego Stowarzyszenia następuje w drodze uchwały Zarządu podejmowanej na wniosek kandydata złożony formie deklaracji członkowskiej.
 
 Art. 12.
 
@@ -127,9 +127,9 @@ Członkostwo zwyczajne Stowarzyszenia ustaje na skutek:
 
 #. śmierci członka,
 #. dobrowolnego wystąpienia zgłoszonego na piśmie Zarządowi,
-#. prawomocnego orzeczenia Sądu Koleżeńskiego o wykluczeniu,
+#. ostatecznego prawomocnego orzeczenia Sądu Koleżeńskiego o wykluczeniu,
 #. utraty praw publicznych,
-#. skreślenia uchwałą podjętą bezpośrednio przez Zarząd w przypadku półrocznych zaległości w opłacaniu składek członkowskich lub na skutek niewywiązywania się z przyjętych zobowiązań,
+#. skreślenia uchwałą podjętą bezpośrednio przez Zarząd w przypadku półrocznych zaległości w opłacaniu składek członkowskich lub na skutek niewywiązywania się z przyjętych zobowiązań bądź oczywistego i poważnego naruszenia postanowień Statutu lub uchwał władz Stowarzyszenia,
 #. pełnej utraty zdolności do czynności prawnych,
 #. likwidacji Stowarzyszenia.
 
@@ -139,12 +139,12 @@ Przyjęcie na członka wspierającego Stowarzyszenia następuje bezpośrednio w 
 
 Art. 17.
 
-Członkiem wspierającym Stowarzyszenia może zostać osoba prawna albo osoba fizyczna posiadająca pełną zdolność do czynności prawnych, która:
+Członkiem wspierającym Stowarzyszenia może zostać polska lub zagraniczna osoba prawna albo osoba fizyczna posiadająca pełną zdolność do czynności prawnych, która:
 
 #. uzyskała zgodę Zarządu na przyjęcie w poczet członków,
 #. zadeklarowała na cele Stowarzyszenia pomoc finansową lub rzeczową.
 
-Osoba prawna działa w Stowarzyszeniu przez swojego przedstawiciela. Reprezentowanie osoby prawnej wynika z jej umowy albo sposobu reprezentacji ujawnionego w odpowiednim rejestrze.
+Osoba prawna działa w Stowarzyszeniu przez swoich przedstawicieli. Reprezentowanie osoby prawnej wynika z jej umowy albo sposobu reprezentacji ujawnionego w odpowiednim rejestrze.
 
 Art. 18.
 
@@ -170,24 +170,24 @@ Członkostwo wspierające Stowarzyszenia wygasa na skutek:
 #. dobrowolnego wystąpienia zgłoszonego na piśmie Zarządowi,
 #. prawomocnego orzeczenia Sądu Koleżeńskiego o wykluczeniu,
 #. utraty praw publicznych,
-#. skreślenia uchwałą podjętą przez Zarząd w przypadku braku wywiązywania się z zadeklarowanych świadczeń,
+#. skreślenia uchwałą podjętą przez Zarząd w przypadku braku wywiązywania się z zadeklarowanych świadczeń bądź oczywistego naruszenia postanowień Statutu lub uchwał władz Stowarzyszenia,
 #. ogłoszenia upadłości osoby prawnej lub utraty pełnej zdolności do czynności prawnych,
 #. likwidacji Stowarzyszenia.
 
 Art. 21.
 
-Status członka honorowego nadaje Walne Zebranie Członków. Otrzymanie statusu członka honorowego nie powoduje utraty członkostwa zwyczajnego albo członkostwa wspierającego jeżeli takowe posiada.
+Status członka honorowego nadaje Walne Zebranie Członków na wniosek Zarządu. Otrzymanie statusu członka honorowego nie powoduje utraty członkostwa zwyczajnego albo członkostwa wspierającego jeżeli takowe posiada lub nabędzie.
 
 Art. 22.
 
-Członkiem honorowym Stowarzyszenia może zostać osoba fizyczna, posiadająca pełną zdolność do czynności prawnych, która wniosła wybitny wkład w rozwój Pythona bądź jego społeczności lub w szczególny sposób zasłużyła się Stowarzyszeniu.
+Członkiem honorowym Stowarzyszenia może zostać osoba fizyczna, posiadająca pełną zdolność do czynności prawnych bądź osoba prawna, której działalność wniosła wybitny wkład w rozwój Pythona bądź jego społeczności lub w szczególny sposób zasłużyła się Stowarzyszeniu.
 
 Art. 23.
 
 Członek honorowy Stowarzyszenia ma prawo:
 
 #. uczestnictwa z głosem doradczym w Walnych Zebraniach Członków,
-#. uczestnictwa w kształtowaniu i realizacji programu działania Stowarzyszenia,
+#. uczestnictwa w kształtowaniu i realizacji programu działania Stowarzyszenia oraz jego celów statutowych,
 #. wyrażania opinii i zgłaszania wniosków dotyczących działalności Stowarzyszenia.
 
 Art. 24.
@@ -202,19 +202,19 @@ Członek honorowy Stowarzyszenia zwolniony jest z obowiązku uiszczania składek
 
 Art. 26.
 
-Członek honorowy może zrzec się statusu członka honorowego poprzez pisemne poinformowanie Zarządu albo podczas Walnego Zebrania Członków.
+Członek honorowy może zrzec się statusu członka honorowego poprzez pisemne poinformowanie Zarządu albo poprzez oświadczenie złożone podczas Walnego Zebrania Członków.
 
 Art. 27.
 
-Statusu członka honorowego pozbawia Walne Zebranie Członków na wniosek Zarządu w przypadku sprzeniewierzenia się przez członka honorowego idei Stowarzyszenia lub rażącego naruszenia postanowień Statutu.
+Statusu członka honorowego pozbawia Walne Zebranie Członków na wniosek Zarządu w przypadku sprzeniewierzenia się przez członka honorowego idei Stowarzyszenia lub rażącego naruszenia postanowień Statutu bądź przepisów prawa.
 
 Art. 28.
 
-Od uchwały Zarządu o odmowie przyjęcia na członka, uchwały o skreśleniu albo orzeczenia Sądu Koleżeńskiego o wykluczeniu, służy zainteresowanemu prawo odwołania do Walnego Zebrania Członków w ciągu 30 dni kalendarzowych od daty powiadomienia o uchwale albo orzeczeniu.
+Od uchwały Zarządu o odmowie przyjęcia na członka, uchwały o skreśleniu albo orzeczenia Sądu Koleżeńskiego o wykluczeniu, służy zainteresowanemu prawo odwołania do Walnego Zebrania Członków w ciągu 30 dni kalendarzowych od daty powiadomienia o uchwale albo orzeczeniu. W przypadku braku złożenia odwołania decyzja staje się ostateczna wraz z upływem ostatniego dnia  terminu zastrzeżonego do złożenia odwołania.
 
 Art. 29.
 
-Walne Zebranie Członków rozpatruje odwołanie na najbliższym posiedzeniu. Od dnia doręczenia decyzji o wykluczeniu ze Stowarzyszenia członek Stowarzyszenia jest zawieszony w prawach członkowskich.
+Walne Zebranie Członków rozpatruje odwołanie na najbliższym posiedzeniu, nie później jednakże niż w terminie 1 roku od złożenia odwołania. Od dnia doręczenia decyzji o wykluczeniu ze Stowarzyszenia do dnia rozstrzygnięcia przez Walne Zebranie Członków lub upływu 30 dniowego terminu członek Stowarzyszenia jest zawieszony w prawach członkowskich. Decyzja Walnego Zebrania Członków jest ostateczna.
 
 **Rozdział 4. Władze Stowarzyszenia**
 
@@ -230,21 +230,21 @@ Władzami Stowarzyszenia są:
 
 Art. 31.
 
-Kadencja Zarządu, Komisji Rewizyjnej, Sądu Koleżeńskiego i Rzecznika Dyscyplinarnego trwa dwa lata a ich wybór odbywa się w głosowaniu jawnym z nieograniczonej liczby kandydatów.
+Kadencja Zarządu, Komisji Rewizyjnej, Sądu Koleżeńskiego i Rzecznika Dyscyplinarnego jest wspólna i trwa dwa lata a ich wybór odbywa się w głosowaniu jawnym z nieograniczonej liczby kandydatów zgłoszonych przez Członków Zwyczajnych Stowarzyszenia.
+
+Walne Zebranie Członków przyznaje funkcje we Władzach Stowarzyszenia oraz decyduje o liczbie członków Władz.
 
 Art. 32.
 
-Ukonstytuowanie się nowych władz nastąpić ma w ciągu 7 dni kalendarzowych od daty wyboru, a przejęcie spraw w ciągu 30 dni kalendarzowych od daty wyboru.
-
-Do czasu ukonstytuowania się nowych władz, działają władze ówczesnej kadencji.
+Przekazanie i przejęcie spraw będących w toku przez dotychczasowe i nowe władze powinno nastąpić w ciągu 30 dni kalendarzowych od daty wyboru.
 
 Art. 33.
 
-O ile dalsze postanowienia Statutu nie stanowią inaczej, uchwały wszystkich władz Stowarzyszenia zapadają zwykłą większością głosów przy obecności co najmniej połowy członków uprawnionych do głosowania, stanowiących kworum. W przypadku równej liczby głosów decyduje głos przewodniczącego obrad.
+O ile dalsze postanowienia Statutu nie stanowią inaczej, uchwały wszystkich władz Stowarzyszenia zapadają zwykłą większością głosów przy obecności co najmniej połowy członków uprawnionych do głosowania, stanowiących kworum. W przypadku równej liczby głosów decyduje głos przewodniczącego. Gdyby posiedzenie władz nie mogło się odbyć w pierwszym terminie z powodu braku kworum, w drugim terminie warunek kworum nie jest wymagany.
 
 Art. 34.
 
-W przypadku ustąpienia lub odwołania członka władz Stowarzyszenia przed upływem kadencji, skład osobowy tych władz jest uzupełniany spośród niewybranych kandydatów w kolejności uzyskanych głosów. Liczba członków dokooptowanych nie może przekroczyć połowy liczby członków pochodzących z wyboru. W przypadku konieczności dalszego uzupełniania niezbędne jest przeprowadzenie Walnego Zebrania Członków.
+W przypadku ustąpienia lub odwołania bądź zajścia innych zdarzeń powodujących utratę możliwości pełnienia funkcji członka władz Stowarzyszenia przed upływem kadencji, skład osobowy tych władz jest uzupełniany spośród niewybranych kandydatów w kolejności uzyskanych głosów, a gdyby takich osób nie było bądź nie wyrazili oni zgody na członkostwo we władzach organ którego dotyczy absencja może uzupełnić swój skład w drodze kooptacji. Liczba członków dokooptowanych nie może przekroczyć połowy liczby członków pochodzących z wyboru. W przypadku konieczności dalszego uzupełniania niezbędne jest przeprowadzenie Walnego Zebrania Członków.
 
 Art. 35.
 
