@@ -14,11 +14,11 @@
 
 Art. 1.
 
-Stowarzyszenie nosi nazwę "Stowarzyszenie Polska Grupa Użytkowników Pythona". W stosunkach międzynarodowych oraz w języku angielskim może posługiwać się równoważną nazwą: "Polish Python Users Group". Stowarzyszenie Polska Grupa Użytkowników Pythona w dalszej części niniejszego Statutu zwane będzie również: "Stowarzyszeniem".
+Stowarzyszenie nosi nazwę "Stowarzyszenie Polska Grupa Użytkowników Pythona". W stosunkach międzynarodowych oraz w języku angielskim może posługiwać się równoważną nazwą: "Polish Python User Group" w skrócie "PLPUG". Stowarzyszenie Polska Grupa Użytkowników Pythona w dalszej części niniejszego Statutu zwane będzie również: "Stowarzyszeniem".
 
 Art. 2.
 
-Stowarzyszenie prowadzi działalność na rzecz popularyzacji, wspierania rozwoju oraz upowszechniania języka programowania, rozwijanego przez Fundację Python Software Foundation pod nazwą „Python” (dalej: „Python”) jak również budowy i integracji jego polskiej oraz międzynarodowej społeczności, nie wykluczając możliwości prowadzenia działalności edukacyjnej oraz naukowej dla realizacji ww. celów statutowych. Stowarzyszenie może posługiwać się indywidualnym znakiem graficznym w szczególności w postaci logotypu przyjętego przez Zarząd po konsultacji z członkami Stowarzyszenia.
+Stowarzyszenie prowadzi działalność na rzecz popularyzacji, wspierania rozwoju oraz upowszechniania języka programowania pod nazwą "Python" (dalej: „Python”), rozwijanego przez Fundację Python Software Foundation jak również budowy i integracji jego polskiej oraz międzynarodowej społeczności, nie wykluczając możliwości prowadzenia działalności edukacyjnej oraz naukowej dla realizacji ww. celów statutowych. Stowarzyszenie może posługiwać się indywidualnym znakiem graficznym w szczególności w postaci logotypu przyjętego przez Zarząd po konsultacji z członkami Stowarzyszenia.
 
 Art. 3.
 
@@ -50,7 +50,7 @@ Celami Stowarzyszenia są:
 #. Rozwój popularyzacja i promocja Pythona, jak również związanego z nim oprogramowania na polskiej oraz międzynarodowej arenie informatycznej,
 #. Reprezentowanie członków Stowarzyszenia, ich opinii i potrzeb,
 #. Współpraca i wspieranie lokalnych oraz międzynarodowych grup użytkowników Pythona, a także innych społeczności wykorzystujących ten język programowania,
-#. Wspieranie projektów informatycznych związanych z Pythonem,
+#. Wspieranie projektów związanych z Pythonem,
 #. Wspieranie rozwoju rynku pracy dla programistów Pythona,
 #. Działalność na rzecz oświaty, szkolnictwa i edukacji.
 
@@ -93,7 +93,7 @@ Członkowie Stowarzyszenia dzielą się na:
 
 Art. 11.
 
-Przyjęcie na członka zwyczajnego Stowarzyszenia następuje w drodze uchwały Zarządu podejmowanej na wniosek kandydata złożony formie deklaracji członkowskiej.
+Przyjęcie na członka zwyczajnego Stowarzyszenia następuje w drodze uchwały Zarządu podejmowanej na wniosek kandydata złożony w formie deklaracji członkowskiej.
 
 Art. 12.
 
@@ -236,7 +236,7 @@ Walne Zebranie Członków przyznaje funkcje we Władzach Stowarzyszenia oraz dec
 
 Art. 32.
 
-Przekazanie i przejęcie spraw będących w toku przez dotychczasowe i nowe władze powinno nastąpić w ciągu 30 dni kalendarzowych od daty wyboru.
+Przekazanie i przejęcie spraw będących w toku przez dotychczasowe i nowe władze następuje w ciągu 30 dni kalendarzowych od daty wyboru.
 
 Art. 33.
 
@@ -248,7 +248,7 @@ W przypadku ustąpienia lub odwołania bądź zajścia innych zdarzeń powodują
 
 Art. 35.
 
-W przypadku ustąpienia Prezesa przed upływem kadencji, Zarząd powierza obowiązki Prezesa Wiceprezesowi Zarządu. Najbliższe Walne Zebranie Członków dokonuje wyboru nowego Prezesa na okres do końca kadencji władz.
+W przypadku ustąpienia Prezesa przed upływem kadencji lub zajścia innych okoliczności powodujących utratę funkcji bądź członkowstwa we władzach, jego obowiązki przejmuje Wiceprezes Zarządu. Najbliższe Walne Zebranie Członków dokonuje wyboru nowego Prezesa na okres do końca kadencji władz.
 
 Art. 36.
 
@@ -269,43 +269,48 @@ Walne Zebranie Członków jest najwyższą władzą Stowarzyszenia. W Walnym Zeb
 #. z głosem stanowiącym - członkowie zwyczajni,
 #. z głosem doradczym - członkowie wspierający i honorowi oraz zaproszeni goście.
 
+Każdy Członek Zwyczajny dysponuje jednym głosem, bez przywilejów oraz ograniczeń.
+
 Art. 39.
 
-Do kompetencji Walnego Zebrania Członków należy:
+Do kompetencji Walnego Zebrania Członków należy w szczególności:
 
-#. określenie głównych kierunków działania i rozwoju Stowarzyszenia na okres kadencji,
+#. określenie głównych kierunków działania, strategii i rozwoju Stowarzyszenia na okres kadencji,
 #. podejmowanie uchwał o zmianie Statutu albo rozwiązaniu Stowarzyszenia i przeznaczeniu jego majątku,
 #. wybór i odwoływanie wszystkich władz oraz członków Stowarzyszenia,
-#. rozpatrywanie sprawozdań wszystkich władz Stowarzyszenia,
+#. rozpatrywanie i zatwierdzanie sprawozdań wszystkich władz Stowarzyszenia,
 #. udzielanie Zarządowi absolutorium na wniosek Komisji Rewizyjnej,
 #. uchwalenie rocznego budżetu Stowarzyszenia,
+#. decydowanie o podjęciu działalności gospodarczej,
 #. nadawanie i pozbawianie statusu członka honorowego Stowarzyszenia,
 #. rozpatrywanie wniosków i postulatów zgłoszonych przez członków Stowarzyszenia lub jego władze,
-#. podejmowanie uchwał w sprawach niezastrzeżonych do kompetencji innych władz Stowarzyszenia.
+#. podejmowanie uchwał w sprawach niezastrzeżonych do kompetencji innych władz Stowarzyszenia przekraczających zakres zwykłego zarządu oraz realizacje bieżących celów Stowarzyszenia.
 
 Art. 40.
 
-Walne Zebranie Członków może być zwyczajne lub nadzwyczajne.
+Walne Zebranie Członków może być zwyczajne lub nadzwyczajne. Walne Zebranie Członków zwoływane jest przez Zarząd w drodze zaproszeń przesyłanych na adresy skrzynek odbiorczych e-mail wszystkich członków Stowarzyszenia na co najmniej 30 dni przed terminem Walnego Zebrania Członków. Zaproszenie powinno zawierać proponowany porządek obrad Walnego Zebrania Członków.
+
+Zmiana porządku obrad może nastąpić najpóźniej na 14 dni przed dniem Walnego Zebrania Członków.
+
+Walne Zebranie członków odbywa się w siedzibie Stowarzyszenia lub innym dogodnym miejscu wskazanym w zaproszeniach.
 
 Art. 41.
 
-Walne Zebranie Członków zwyczajne jest zwoływane przez Zarząd w siedzibie Stowarzyszenia lub innym dogodnym miejscu.
-
 Walne Zebranie Członków zwyczajne jest zwoływane co roku jako zebranie sprawozdawcze, a co drugi rok jako spotkanie sprawozdawczo-wyborcze.
-
-Termin obrad Zarząd podaje do wiadomości wszystkich członków co najmniej 30 dni kalendarzowych przed terminem zebrania.
 
 Art. 42.
 
-Walne Zebranie Członków nadzwyczajne może się odbyć w każdym czasie w siedzibie Stowarzyszenia lub innym dogodnym miejscu. Jest zwoływane przez Zarząd z jego inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej 1/3 ogólnej liczby członków zwyczajnych Stowarzyszenia.
+Walne Zebranie Członków nadzwyczajne jest zwoływane przez Zarząd z jego własnej inicjatywy, na wniosek Komisji Rewizyjnej lub pisemny wniosek co najmniej 1/3 ogólnej liczby członków zwyczajnych Stowarzyszenia.
 
 Termin nadzwyczajnego Walnego Zebrania Członków powinien być określony nie później niż 60 dni kalendarzowych od daty wpływu wniosku do Zarządu.
 
 Wniosek powinien zawierać propozycje terminów oraz porządku obrad.
 
+W przypadku gdy Zarząd nie zwoła zwyczajnego lub nadzwyczajnego Walnego Zebrania Członków w przypadkach przewidzianych w niniejszym Statucie, może tego dokonać Komisja Rewizyjna lub członkowie uprawnieni do zwołania Walnego Zebrania Członków.
+
 Art. 43.
 
-Walne Zebranie Członków nadzwyczajne obraduje nad sprawami, dla których zostało zwołane, według uchwalonego przez siebie regulaminu obrad.
+Walne Zebranie Członków nadzwyczajne obraduje nad sprawami, dla których zostało zwołane, według uchwalonego przez siebie porządku obrad.
 
 Art. 44.
 
@@ -317,13 +322,17 @@ Walne Zebranie Członków podejmuje większością 2/3 głosów przy obecności 
 
 Art. 45.
 
-Rozwiązanie Stowarzyszenia może nastąpić na mocy uchwały Walnego Zebrania Członków podjętej większością 3/4 głosów przy obecności co najmniej połowy osób uprawnionych do głosowania.
+Rozwiązanie Stowarzyszenia może nastąpić na mocy uchwały Walnego Zebrania Członków podjętej większością 3/4 głosów przy obecności co najmniej 2/3 osób uprawnionych do głosowania.
+
+W przypadku braku kworum, w terminie miesiąca zwołuje się kolejne Walne Zebranie Członków, które podejmuje uchwałę w przedmiocie rozwiązania i likwidacji Stowarzyszenia większością 3/4 głosów przy obecności co najmniej połowy osób uprawnionych do głosowania.
+
+Uchwała dotycząca rozwiązania i likwidacji Stowarzyszenia określa sposób przeprowadzenia likwidacji oraz cel na który ma być przeznaczony jego majątek.
 
 *Zarząd*
 
 Art. 46.
 
-Zarząd jest powoływany do kierowania całą działalnością Stowarzyszenia zgodnie z uchwałami Walnego Zebrania Członków, a także reprezentuje Stowarzyszenie wobec organów administracyjnych i sądów.
+Zarząd prowadzi sprawy Stowarzyszenia i jest powoływany do kierowania całą działalnością Stowarzyszenia zgodnie z postanowieniami Statutu i uchwałami Walnego Zebrania Członków, a także reprezentuje Stowarzyszenie na zewnątrz wobec osób trzecich, organów administracyjnych i sądów. W kwestiach nieuregulowanych w zakresie nie przekraczającym granic zwykłego zarządu Zarząd rozstrzyga samodzielnie.
 
 Art. 47.
 
@@ -333,6 +342,8 @@ W skład Zarządu wchodzi od 4 do 7 osób, w tym:
 #. Wiceprezes,
 #. Sekretarz,
 #. Skarbnik.
+
+Funkcje w Zarządzie przyznaje Walne Zebranie Członków. Jednakże w przypadku ustania członkostwa we władzach przed upływem kadencji, do czasu wyboru przez Walne Zebranie Członków, pełnienie funkcji członkowi Zarządu może powierzyć Komisja Rewizyjna.
 
 Art. 48.
 
@@ -345,7 +356,7 @@ Do kompetencji Zarządu należy:
 #. składanie sprawozdań ze swojej działalności na Walnych Zebraniach Członków,
 #. sprawowanie zarządu nad majątkiem Stowarzyszenia,
 #. powoływanie i rozwiązywanie komisji i zespołów w celu wykonania zadań statutowych, sprawowanie nad nimi nadzoru i uchwalanie regulaminów ich działalności,
-#. podejmowanie uchwał o przyjęciu bądź skreśleniu członków zwyczajnych i członków wspierających Stowarzyszenia z listy członków,
+#. prowadzenie listy członków Stowarzyszenia, podejmowanie uchwał o przyjęciu bądź skreśleniu członków zwyczajnych i członków wspierających Stowarzyszenia z listy członków,
 #. reprezentowanie Stowarzyszenia wobec organów administracji i sądów,
 #. podejmowanie innych decyzji przewidzianych w Statucie.
 
@@ -356,6 +367,8 @@ Posiedzenia Zarządu odbywają się w miarę potrzeb, nie rzadziej jednak niż r
 Art. 50.
 
 Zarząd podejmuje uchwały zwykłą większością głosów tylko w obecności większości swojego składu. W sytuacji równego rozłożenia głosów decyduje głos Prezesa, a pod jego nieobecność głos Wiceprezesa.
+
+Regulamin Zarządu przyjęty przez Zarząd może określić szczegółowy tryb i formę działania Zarządu Stowarzyszenia.
 
 *Komisja Rewizyjna*
 
@@ -371,6 +384,8 @@ W skład Komisji Rewizyjnej wchodzi od 3 do 5 członków, w tym:
 #. Wiceprzewodniczącego,
 #. Sekretarza.
 
+Funkcje w Komisji Rewizyjnej przyznaje Walne Zebranie Członków. Jednakże w przypadku ustania członkostwa we władzach przed upływem kadencji, do czasu wyboru przez Walne Zebranie Członków, pełnienie funkcji w Komisji Rewizyjnej członkowi Komisji Rewizyjnej może powierzyć jej Przewodniczący.
+
 Art. 53.
 
 Do zakresu działań Komisji Rewizyjnej należy:
@@ -383,7 +398,7 @@ Do zakresu działań Komisji Rewizyjnej należy:
 
 Art. 54.
 
-Tryb i forma działania Komisji Rewizyjnej określa regulamin przez nią uchwalony.
+Tryb i formę działania Komisji Rewizyjnej określa regulamin przez nią uchwalony.
 
 Art. 55.
 
@@ -395,7 +410,7 @@ Komisja Rewizyjna ma prawo żądania od członków i przedstawicieli władz Stow
 
 Art. 57.
 
-Członkowie Komisji Rewizyjnej nie mogą pełnić funkcji w innych władzach Stowarzyszenia, ani pozostawać z ich członkami w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa, powinowactwa lub podległości służbowej.
+Członkowie Komisji Rewizyjnej nie mogą pełnić funkcji w innych władzach Stowarzyszenia, ani pozostawać z ich członkami w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa, powinowactwa lub podległości służbowej. Nie dotyczy to uczestnictwa w Walnym Zebraniu Członków Stowarzyszenia.
 
 *Sąd Koleżeński*
 
@@ -405,7 +420,7 @@ Sąd Koleżeński jest organem powołanym do rozstrzygania sporów i konfliktów
 
 Art. 59.
 
-W skład Sądu Koleżeńskiego wchodzi od 3 do 7 członków, w tym:
+W skład Sądu Koleżeńskiego wchodzi od 3 do 7 członków wybieranych przez Walne Zebranie Członków, w tym:
 
 #. Przewodniczącego,
 #. Wiceprzewodniczącego,
@@ -418,11 +433,12 @@ Do zakresu działań Sądu Koleżeńskiego należy:
 #. rozpatrywanie i rozstrzyganie spraw członków władz w zakresie niedopełnienia przez nich obowiązków lub przekroczenia uprawnień wynikających ze Statutu i uchwał władz Stowarzyszenia,
 #. rozpatrywanie i rozstrzyganie sporów pomiędzy członkami Stowarzyszenia oraz między członkami a władzami Stowarzyszenia, powstałych na tle ich praw i obowiązków wynikających z ich przynależności i działalności w Stowarzyszeniu,
 #. rozpatrywanie spraw związanych z nieprzestrzeganiem Statutu i uchwał władz Stowarzyszenia lub działaniem na szkodę Stowarzyszenia,
+#. rozpatrywanie odwołań od decyzji Zarządu dotyczących skreślenia z listy członków zwyczajnych i członków wspierających Stowarzyszenia,
 #. składanie sprawozdań ze swojej działalności Walnemu Zebraniu Członków.
 
 Art. 61.
 
-Sąd Koleżeński rozpatruje sprawy na wniosek Rzecznika Dyscyplinarnego, władz Stowarzyszenia lub wniosek zainteresowanych stron trzecich. Tryb i formy działania Sądu Koleżeńskiego określa regulamin przez nią uchwalony.
+Sąd Koleżeński rozpatruje sprawy na wniosek Rzecznika Dyscyplinarnego, władz Stowarzyszenia lub podmiotów zainteresowanych. Tryb i formy działania Sądu Koleżeńskiego określa regulamin przez nią uchwalony.
 
 Art. 62.
 
@@ -447,17 +463,17 @@ Przewodniczący Sądu Koleżeńskiego ma prawo uczestniczenia w posiedzeniach Za
 
 Art. 66.
 
-Członkowie Sądu Koleżeńskiego nie mogą pełnić funkcji w innych władzach Stowarzyszenia, ani pozostawać z ich członkami w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa, powinowactwa lub podległości służbowej.
+Członkowie Sądu Koleżeńskiego nie mogą pełnić funkcji w innych władzach Stowarzyszenia, ani pozostawać z ich członkami w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa, powinowactwa lub podległości służbowej. Powyższe nie dotyczy uczestnictwa w Walnym Zebraniu Członków Stowarzyszenia.
 
 *Rzecznik Dyscyplinarny*
 
 Art. 67.
 
-Rzecznik Dyscyplinarny wybierany jest przez Walne Zebranie Członków.
+Rzecznik Dyscyplinarny wybierany jest przez Walne Zebranie Członków. Reprezentuje on interesy Stowarzyszenia przed Sądem Koleżeńskim.
 
 Art. 68.
 
-Zadaniem Rzecznika Dyscyplinarnego jest wszczynanie i prowadzenie postępowania dyscyplinarnego w przypadku uzyskania informacji o naruszeniu przez członka Stowarzyszenia postanowień Statutu lub uchwał władz Stowarzyszenia oraz kierowanie spraw do Sądu Koleżeńskiego.
+Zadaniem Rzecznika Dyscyplinarnego jest wszczynanie i prowadzenie postępowania dyscyplinarnego w przypadku uzyskania informacji o naruszeniu przez członka Stowarzyszenia postanowień Statutu, uchwał władz Stowarzyszenia lub zasad etycznych bądź zaistnienia innego rodzaju konfliktów oraz kierowanie spraw do Sądu Koleżeńskiego.
 
 Art. 69.
 
@@ -484,15 +500,20 @@ Majątek Stowarzyszenia powstaje z:
 #. darowizn, zapisów i spadków,
 #. wpływów z ofiarności publicznej,
 #. wpływów ze zbiórek publicznych,
-#. wpływów z loterii oraz aukcji.
+#. wpływów z loterii oraz aukcji,
+#. wpływów z działalności statutowej.
 
 Art. 73.
 
-Środki pieniężne, niezależnie od źródeł pochodzenia, mogą być przechowywane wyłącznie na koncie Stowarzyszenia. Wpłaty gotówkowe winny być, przy uwzględnieniu bieżących potrzeb, niezwłocznie na to konto przelane.
+Środki pieniężne, niezależnie od źródeł pochodzenia, mogą być przechowywane wyłącznie na koncie lub w kasie Stowarzyszenia. Wpłaty gotówkowe winny być, przy uwzględnieniu bieżących potrzeb, niezwłocznie na to konto przelane.
+
+Środkami pieniężnymi dysponuje Zarząd, zapewniając efektywne oraz racjonalne wykorzystanie zgromadzonych środków zgodnie z celami statutowymi.
+
+Osobą odpowiedzialną za prowadzenie i realizację budżetu i polityki finansowej stowarzyszenia jest Skarbnik.
 
 Art. 74.
 
-Wysokość składek członkowskich i termin ich wpłacania ustala Zarząd.
+Wysokość składek członkowskich i termin ich wpłacania ustala Walne Zebranie Członków.
 
 Art. 75.
 
@@ -504,14 +525,11 @@ Zarząd zobowiązany jest dołożyć wszelkich starań w celu utrzymania zapasu 
 
 Art. 77.
 
-W imieniu Stowarzyszenia oświadczenia woli, w tym w sprawach finansowych, podpisują dwie osoby z Zarządu, przy czym przynajmniej jedną z tych osób musi być Prezes, Wiceprezes albo Skarbnik Stowarzyszenia.
+W imieniu Stowarzyszenia oświadczenia woli, w sprawach majątkowych, których wartość przekracza kwotę 1024 PLN, składają dwie osoby z Zarządu, przy czym przynajmniej jedną z tych osób musi być Prezes, Wiceprezes albo Skarbnik Stowarzyszenia.
 
 Art. 78.
 
-Do zawierania umów, udzielania pełnomocnictwa i składania innych oświadczeń woli, w szczególności w sprawach majątkowych:
-
-#. upoważnionych jest dowolnych dwóch członków Zarządu działających łącznie,
-#. upoważniony jest każdy członek Zarządu działający samodzielnie, jeżeli całkowita wysokość podejmowanego zobowiązania nie przekracza 1024 PLN.
+W imieniu Stowarzyszenia oświadczenia woli w sprawach majątkowych, których wartość nie przekracza kwoty 1024 PLN upoważniony jest każdy członek Zarządu działający samodzielnie.
 
 Art. 79.
 
